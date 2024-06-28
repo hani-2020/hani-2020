@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Hani Roshan CK.<br>I am an ECE undergrad with a passion for software development.<br>I’m currently working on on an ML and Raspberry Pi based animal deterrent system.<br>I’m currently learning MERN stack, IoT and VLSI.<br> Here is my [resume](https://drive.google.com/file/d/10-v8nq52aLa4SO-VyPT2hlpSjEUiYhPc/view?usp=sharing).
+Hi 👋, I'm Hani Roshan CK.<br>I am an ECE grad with a passion for software development.<br>I’m currently learning MERN stack, IoT and VLSI.<br> Here is my [resume](https://drive.google.com/file/d/10-v8nq52aLa4SO-VyPT2hlpSjEUiYhPc/view?usp=sharing).
 
 
 ## 🌐 Socials:
